@@ -1,0 +1,49 @@
+PODS:
+  - AFNetworking (3.1.0):
+    - AFNetworking/NSURLSession (= 3.1.0)
+    - AFNetworking/Reachability (= 3.1.0)
+    - AFNetworking/Security (= 3.1.0)
+    - AFNetworking/Serialization (= 3.1.0)
+    - AFNetworking/UIKit (= 3.1.0)
+  - AFNetworking/NSURLSession (3.1.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.1.0)
+  - AFNetworking/Security (3.1.0)
+  - AFNetworking/Serialization (3.1.0)
+  - CryptoSwift (0.6.7)
+  - HappyDNS (0.3.10)
+  - PromiseKit (4.1.7):
+    - PromiseKit/Foundation (= 4.1.7)
+    - PromiseKit/QuartzCore (= 4.1.7)
+    - PromiseKit/UIKit (= 4.1.7)
+  - PromiseKit/CorePromise (4.1.7)
+  - PromiseKit/Foundation (4.1.7):
+    - PromiseKit/CorePromise
+  - PromiseKit/QuartzCore (4.1.7):
+    - PromiseKit/CorePromise
+  - PromiseKit/UIKit (4.1.7):
+    - PromiseKit/CorePromise
+  - Qiniu (7.1.5):
+    - AFNetworking (~> 3)
+    - HappyDNS (~> 0.3)
+  - SwiftyJSON (3.1.4)
+
+DEPENDENCIES:
+  - CryptoSwift
+  - PromiseKit (~> 4.0)
+  - Qiniu (~> 7.1)
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
+  CryptoSwift: 685ae257941e5447474348a2b545583e1a16b573
+  HappyDNS: 06a9fed2796663fd87626dbf02552933265bf059
+  PromiseKit: 779f2e41faf62d854e7593026ddbcb0bb5c5002d
+  Qiniu: 77a3dba411556a383d72d17e842345a9d4c83252
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+
+PODFILE CHECKSUM: 7b72ea763d270cca0a2d752c1b9f3df415903cc6
+
+COCOAPODS: 1.2.0
