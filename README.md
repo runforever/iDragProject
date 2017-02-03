@@ -5,7 +5,7 @@
 2. [第二天（快速原型跑通流程）](http://blog.defcoding.com/2017-02-01/2017-02-01-我用-5-天写了一个-osx-menu-bar-app（第二天）/)
 3. [第三天（拖动上传和上传多张图片）](http://blog.defcoding.com/2017-02-02/2017-02-02-我用-5-天写了一个-osx-menu-bar-app（第三天）/)
 4. [第四天（UI 细节调整）](http://blog.defcoding.com/2017-02-03/2017-02-03-我用-5-天写了一个-osx-menu-bar-app（第四天）/)
-5. [第五天（设计 Logo 和总结）](#) 未完成
+5. [第五天（设计 Logo 和总结）](http://blog.defcoding.com/2017-02-03/2017-02-03-我用-5-天写了一个-osx-menu-bar-app（第五天）/)
 
 ### 使用
 ``` bash
@@ -18,4 +18,4 @@ Xcode 打开 `iDragProject.xcworkspace/`，使用 `Cmd + b` 快捷键编译项�
 ![](http://cdn.defcoding.com/262094C3-2D09-446B-A938-3A011A870A7F.png)
 
 ### 说明
-此项目是讲解代码，只讲了关键技术，[正式项目](https://github.com/runforever/iDrag) 的代码会在博客写完后整理开源。
+此项目是讲解代码，只讲了关键技术，项目最终版本代码在：[最终版本](https://github.com/runforever/iDrag)。
