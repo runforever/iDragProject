@@ -12,6 +12,8 @@
 		68E2044D1DF94B6000268F02 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 68E2044C1DF94B6000268F02 /* Assets.xcassets */; };
 		68E204501DF94B6000268F02 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 68E2044E1DF94B6000268F02 /* Main.storyboard */; };
 		68E204581DF9696900268F02 /* DragAppController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68E204571DF9696900268F02 /* DragAppController.swift */; };
+		68F3B3071E446AFF0059F6F4 /* SettingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68F3B3051E446AFF0059F6F4 /* SettingViewController.swift */; };
+		68F3B3081E446AFF0059F6F4 /* SettingViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 68F3B3061E446AFF0059F6F4 /* SettingViewController.xib */; };
 		D7BF367F4E408B8C76FD0412 /* Pods_iDragProject.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = ACF5A659E19F6F1BAF0F06CC /* Pods_iDragProject.framework */; };
 /* End PBXBuildFile section */
 
@@ -25,6 +27,8 @@
 		68E2044F1DF94B6000268F02 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		68E204511DF94B6000268F02 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		68E204571DF9696900268F02 /* DragAppController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DragAppController.swift; sourceTree = "<group>"; };
+		68F3B3051E446AFF0059F6F4 /* SettingViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingViewController.swift; sourceTree = "<group>"; };
+		68F3B3061E446AFF0059F6F4 /* SettingViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SettingViewController.xib; sourceTree = "<group>"; };
 		ACF5A659E19F6F1BAF0F06CC /* Pods_iDragProject.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_iDragProject.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -66,6 +70,8 @@
 				6832F62F1E4216B900FB9674 /* Controllers.swift */,
 				68E2044C1DF94B6000268F02 /* Assets.xcassets */,
 				68E2044E1DF94B6000268F02 /* Main.storyboard */,
+				68F3B3051E446AFF0059F6F4 /* SettingViewController.swift */,
+				68F3B3061E446AFF0059F6F4 /* SettingViewController.xib */,
 				68E204511DF94B6000268F02 /* Info.plist */,
 			);
 			path = iDragProject;
@@ -152,6 +158,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				68E2044D1DF94B6000268F02 /* Assets.xcassets in Resources */,
+				68F3B3081E446AFF0059F6F4 /* SettingViewController.xib in Resources */,
 				68E204501DF94B6000268F02 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -214,6 +221,7 @@
 				68E204491DF94B6000268F02 /* AppDelegate.swift in Sources */,
 				6832F6301E4216B900FB9674 /* Controllers.swift in Sources */,
 				68E204581DF9696900268F02 /* DragAppController.swift in Sources */,
+				68F3B3071E446AFF0059F6F4 /* SettingViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

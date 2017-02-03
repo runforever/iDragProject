@@ -4,7 +4,7 @@
 1. [第一天（方案调研和框架搭建）](http://blog.defcoding.com/2016-12-05/2016-12-05-我用-5-天写了一个-osx-menu-bar-app/)
 2. [第二天（快速原型跑通流程）](http://blog.defcoding.com/2017-02-01/2017-02-01-我用-5-天写了一个-osx-menu-bar-app（第二天）/)
 3. [第三天（拖动上传和上传多张图片）](http://blog.defcoding.com/2017-02-02/2017-02-02-我用-5-天写了一个-osx-menu-bar-app（第三天）/)
-4. [第四天（UI 细节调整）](#) 未完成
+4. [第四天（UI 细节调整）](http://blog.defcoding.com/2017-02-03/2017-02-03-我用-5-天写了一个-osx-menu-bar-app（第四天）/)
 5. [第五天（设计 Logo 和总结）](#) 未完成
 
 ### 使用
